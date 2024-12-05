@@ -1,0 +1,35 @@
+inference 
+ 1: Freedom Fighters
+Input (Instruction):
+Who was Bhagat Singh, and what was his contribution to India's independence?
+
+Model Response:
+Bhagat Singh (1907–1931) was a revolutionary freedom fighter known for his courage and ideals. He played a key role in the Hindustan Socialist Republican Association and is remembered for his acts of defiance, like the bombing of the Central Legislative Assembly, to protest British rule. His execution at the age of 23 made him a martyr and an enduring symbol of youth-led resistance.
+
+ 2: Ancient India
+Input (Instruction):
+What was the significance of the Indus Valley Civilization in Indian history?
+
+Model Response:
+The Indus Valley Civilization (3300–1300 BCE) was one of the world's earliest urban cultures. Known for its advanced city planning, drainage systems, and trade networks, it marked the beginning of organized society in South Asia. Sites like Harappa and Mohenjo-daro demonstrate the civilization's engineering and cultural sophistication.
+
+ 3: Dynasties
+Input (Instruction):
+What was the role of Ashoka in spreading Buddhism?
+
+Model Response:
+Emperor Ashoka (268–232 BCE) of the Maurya Empire embraced Buddhism after the Kalinga War. He spread its teachings across India and beyond, using inscriptions on pillars and rocks. Ashoka's efforts led to Buddhism's global reach, influencing regions like Sri Lanka, Southeast Asia, and Central Asia.
+
+ 4: Architecture
+Input (Instruction):
+Why is the Qutub Minar important in Indian history?
+
+Model Response:
+The Qutub Minar, built in the 12th century by Qutb-ud-din Aibak, is a symbol of Delhi Sultanate architecture. At 73 meters, it is one of the tallest brick minarets in the world. It reflects the blending of Indian and Islamic styles and serves as a historical marker of Delhi's transformation under the Sultanate.
+
+ 5: Literature
+Input (Instruction):
+Who wrote the Arthashastra, and what is its significance?
+
+Model Response:
+The Arthashastra was authored by Chanakya (Kautilya) in the 4th century BCE. It is a comprehensive treatise on politics, economics, military strategy, and governance, guiding rulers on effective administration. This ancient text remains relevant for its insights into statecraft and diplomacy.
